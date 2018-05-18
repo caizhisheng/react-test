@@ -1,0 +1,11 @@
+{
+  "name": "ant-btn",
+  "version": "1.0.0",
+  "description": "ant-btn",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mike",
+  "license": "ISC"
+}
